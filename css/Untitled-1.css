@@ -1,0 +1,357 @@
+body{
+    font-family: helvetica,tahoma, arial, sans-serif;
+    padding: 0;    
+    margin: 0;
+    background-color:#E6D5B8;
+
+}
+
+#principal{
+    
+    width: 1024px;
+    margin: 20px auto;
+    
+}
+
+.header-nav ul{
+    margin:0;
+    padding: 0;
+
+}
+.header-nav li{
+    list-style:none;
+    display: inline-block;
+    margin: 0 5px 0 0;
+    padding: 13px;
+}
+
+.header-nav a{
+    color: #425564;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1px;
+    transition: color .3s linear;
+    
+}
+
+.img-santosposter{
+    border: 4px solid #000;
+    
+
+}
+
+.img-santoscomemorando{
+    border: 4px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: 20px auto;
+
+}
+
+.img-diegomorumbi{
+    border: 4px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: 20px auto;
+    
+
+    
+}
+
+.img-robinho{
+    border: 4px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: 20px auto;
+
+}
+
+.img-diegerobinho{
+    border: 4px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: 20px auto;
+}
+
+.img-diegoeboca{
+    border: 4px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: 10px auto;
+}
+
+.elanoxnacional{
+    border: 4px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: 10px auto;
+
+}
+
+.cruzazul{
+    border: 4px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: 10px auto;
+}
+
+.semifinal{
+    border: 4px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: 10px auto;
+    
+}
+
+.robinho2003{
+    border: 4px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: 10px auto;
+}
+
+.robinhobr2003{
+    border: 4px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: 20px auto;
+}
+
+.img2004{
+    border: 4px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: 20px auto;
+}
+
+.titulo2004{
+    border: 4px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: 20px auto;
+}
+
+.diegoerobinhojuntos{
+    border: 4px solid #000;
+    width: 800px;
+    height: 500px;
+    margin: 20px auto;
+}
+
+.galeria{
+    color:#555;
+    padding: 0 100px 50px 100px;
+  
+    overflow: auto;
+}
+
+.diego{
+    border: 4px solid #000;
+}
+
+.robinho{
+    border: 4px solid #000;
+}
+
+.alex{
+    border: 4px solid #000;
+}
+
+.elano{
+    border: 4px solid #000;
+}
+
+.galeria-title{
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    font-size: small;
+}
+
+.h2{
+    font-style: oblique;
+    font-size:25px;
+    margin-bottom:20px;
+}
+
+.h3{
+    font-style: oblique;
+    font-size:25px;
+    margin-bottom:20px;
+}
+
+.h4{
+    font-style: oblique;
+    font-size:25px;
+    margin-bottom:20px;
+}
+
+.h5{
+    font-style: oblique;
+    font-size:25px;
+    margin-bottom:20px;
+}
+
+.h6{
+    font-style: oblique;
+    font-size:25px;
+    margin-bottom:20px;
+    margin: 20px auto;
+
+}
+
+.h7{
+    font-style: oblique;
+    font-size:25px;
+    margin-bottom:20px;
+    margin: 20px auto;
+}
+
+.h8{
+     font-style: oblique;
+    font-size:25px;
+    margin-bottom:20px;
+    margin: 20px auto;
+}
+
+.h9{
+    font-style: oblique;
+    font-size:25px;
+    margin-bottom:20px;
+    margin: 20px auto;
+}
+
+.p1{
+    font-size: small;
+   
+}
+
+.p2{
+    font-size: small;
+    
+}
+
+.p3{
+    font-size: small;
+  
+
+}
+
+.p4{
+    font-size: small;
+}
+
+.p5{
+    font-size: small;
+}
+
+.p6{
+    font-size: small;
+}
+
+.p7{
+    font-size: small;
+}
+
+.p8{
+    font-size: small;
+}
+
+.p9{
+    font-size: small;
+}
+
+.p10{
+    font-size: small;
+}
+
+.p11{
+    font-size: small;
+}
+
+.p12{
+    font-size: small;
+}
+
+.p13{
+    font-size: small;
+}
+
+.p14{
+    font-size: small;
+}
+
+.p15{
+    font-size: small;
+}
+
+.p16{
+    font-size: small;
+}
+
+.p17{
+    font-size: small;
+}
+
+.p18{
+    font-size: small;
+    }
+
+.p19{
+    font-size: small;
+}   
+
+.p20{
+    font-size: small;
+}
+
+.p21{
+    font-size: small;
+}
+
+.p22{
+    font-size: small;
+}
+
+.p23{
+    font-size: small;
+}
+
+.p24{
+    font-size: small;
+    
+}
+
+.p25{
+    font-size: small;
+}
+
+.p26{
+    font-size: small;
+}
+
+.p27{
+    font-size: small;
+}
+
+.p28{
+    font-size: small;
+}
+
+.p29{
+     font-size: small;
+}
+
+.p30{
+    font-size: small;
+}
+
+.p31{
+    font-size: small;
+}
+
+.p32{
+    font-size: small;
+}
